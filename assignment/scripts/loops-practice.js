@@ -75,6 +75,6 @@ console.log('count backwards from 10 to 5');
 let start =10;
 
 while(start>4){
-  console.log(`the number is: ${start}`)
-  start --
+  console.log(`the number is: ${start}`);
+  start --;
 }
